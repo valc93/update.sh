@@ -1,5 +1,5 @@
 # update.sh
 
-## How-To Run
+## How to run
 
-1. 
+wget https://raw.github.com/1lj4z1/update.sh/master/update.sh | sh
