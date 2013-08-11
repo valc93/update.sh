@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 clear
 echo "System update script"
 sleep 2
