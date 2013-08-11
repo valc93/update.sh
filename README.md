@@ -1,4 +1,5 @@
-update.sh
-=========
+# update.sh
 
-Simple update script for elementary/Ubuntu systems
+## How-To Run
+
+1. 
