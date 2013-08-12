@@ -7,7 +7,6 @@ clear
 echo "Fixing broken packages...";
 echo "";
 sleep 2
-clear
 sudo apt-get -y -f install
 clear
 echo "Updating repositories...";
