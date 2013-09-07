@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple package update script for elementary/Ubuntu GNU/Linux distributions.
+Simple package update script for crunchbang/elementary OS/Ubuntu, GNU/Linux distributions.
 
 ## How to run
 
